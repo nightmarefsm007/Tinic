@@ -1,25 +1,14 @@
-```{=html}
 <p align="center">
-```
-`<img src=".github/tinic_icon.png" alt="Tinic Logo" width="320rem">`{=html}
-```{=html}
+   <img src=".github/tinic_icon.png" alt="Tinic Logo" width="320rem">
 </p>
-```
-```{=html}
-<h1 align="center">
-```
-Tinic
-```{=html}
-</h1>
-```
-```{=html}
+
+<h1 align="center">Tinic</h1>
+
 <p align="center">
-```
-Tinic is a runtime for Libretro cores that abstracts the native API and
-provides a ready-to-use foundation for cross-platform frontends.
-```{=html}
+    Tinic is a runtime for Libretro cores that abstracts the native API and provides a ready-to-use foundation for cross-platform frontends.
 </p>
-```
+
+
 # 🎯 What is Tinic for?
 
 Most frontends that implement the Libretro API need to create their own
